@@ -32,7 +32,7 @@ The main information can be found [here](https://git.gvk.idi.ntnu.no/course/prog
     - Input:
       ```
       Method: GET
-      Path: localhost:8081/client/v1/output/
+      Path: http://10.212.142.102:8081/client/v1/output/
       ```
     - Output:
       ```json
