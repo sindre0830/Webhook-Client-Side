@@ -2,8 +2,6 @@ The main information can be found [here](https://git.gvk.idi.ntnu.no/course/prog
 
 ### Usage
 
-There are 2 endpoints that you can append to the client root path.
-
 1. Testing a webhook encryption
 
   - Input:
