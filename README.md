@@ -1,4 +1,6 @@
-The main information can be found here.
+The main information can be found [here](https://git.gvk.idi.ntnu.no/course/prog2005/prog2005-2021-workspace/sindre0830/project/weather-events).
+
+### Usage
 
 There are 2 endpoints that you can append to the client root path.
 
