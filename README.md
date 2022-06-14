@@ -1,4 +1,4 @@
-The main information can be found [here](https://git.gvk.idi.ntnu.no/course/prog2005/prog2005-2021-workspace/sindre0830/project/weather-events).
+The main information can be found [here](https://github.com/sindre0830/Weather-Events).
 
 ### Usage
 
